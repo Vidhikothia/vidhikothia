@@ -9,29 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/vidhi-kothia-526901259/**
 
-<h3 align="left">Connect with me:</h3>
-<p>
-        <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-        <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-        <a href="https://github.com/yourprofile" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-        <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-        <a href="https://www.facebook.com/yourprofile" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" alt="Facebook" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-        <a href="mailto:youremail@example.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/email.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/>
-        </a>
-    </p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>

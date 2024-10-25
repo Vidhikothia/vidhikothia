@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vidhikothia" target="blank"><img src="https://img.shields.io/twitter/follow/vidhikothia?logo=twitter&style=for-the-badge" alt="vidhikothia" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, Adobe Illustrator, UI/UX Designing**
+- 🌱 I’m currently learning **MERN, ASP.NET, FLutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vidhi-kothia-526901259/**
 

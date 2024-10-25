@@ -10,14 +10,69 @@
 - 📫 How to reach me **https://www.linkedin.com/in/vidhi-kothia-526901259/**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vidhikothia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidhikothia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vidhi kothia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi kothia" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vidhi2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vidhi2004" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vidhi kothia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidhi kothia" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vidhikothia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vidhikothia" height="30" width="40" /></a>
-<a href="https://discord.gg/vidhikothia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vidhikothia" height="30" width="40" /></a>
+<p align="left" style="background-color: #1a1a1a; padding: 10px; border-radius: 5px; display: flex; gap: 10px;">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="asp.net" width="30" height="30" />
+        </div>
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+        <div style="background: #ffffff; border-radius: 50%; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30" />
+        </div>
+    </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: #1a1a1a; padding: 10px; border-radius: 5px;">

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhikothia&label=Profile%20views&color=0e75b6&style=flat" alt="vidhikothia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vidhikothia" target="blank"><img src="https://img.shields.io/twitter/follow/vidhikothia?logo=twitter&style=for-the-badge" alt="vidhikothia" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, ASP.NET, Flutter**
 - 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,8 +32,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vidhikothia&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vidhikothia&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

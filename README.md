@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhikothia&label=Profile%20views&color=0e75b6&style=flat" alt="vidhikothia" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently into **Machine Learning**
 - 💡Working on **MERN Stack + ML** project
 
 # 💻 Tech Stack:
